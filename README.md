@@ -26,9 +26,9 @@ https://miro.com/app/board/uXjVPKAz1i4=/?share_link_id=218530192751 (https://mir
 
 
 ## Contact:
-
-Consultation Flutter and Endorse https://t.me/bahri_bhe
-Github: https://github.com/bahrie127
-Linkedin: https://linkedin.com/in/bahrie
-Roadmap Flutter: https://youtu.be/e2zMJqDBmoY
-Medium: https://medium.com/@bahri
+* Consultation Flutter and Endorse https://t.me/bahri_bhe
+* Youtube: https://youtube.com/@codewithbahri
+* Github: https://github.com/bahrie127
+* Linkedin: https://linkedin.com/in/bahrie
+* Roadmap Flutter: https://youtu.be/e2zMJqDBmoY
+* Medium: https://medium.com/@bahri
