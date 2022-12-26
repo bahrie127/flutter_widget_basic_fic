@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Belajar Flutter FUGI'),
+        title: const Text('Flutter by Code with Bahri'),
         backgroundColor: Colors.red,
         elevation: 10,
         leading: const Icon(Icons.settings),
